@@ -1,1 +1,5 @@
-@use 'global';
+@import './variables';
+@import './global';
+@import './toolbar';
+@import './canvas';
+
